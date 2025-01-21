@@ -2,7 +2,8 @@
 
  <div>
    <a href="https://github.com/Lucas-Klug-Lach">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Klug-Lach&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Klug-Lach&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <br>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Klug-Lach&layout=compact&langs_count=6&theme=cobalt"/>
 </div>
     
